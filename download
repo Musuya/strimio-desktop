@@ -1,0 +1,7 @@
+$ sudo apt update
+sudo apt install snapd
+
+$ sudo snap install strimio-desktop
+
+more information at
+https://snapcraft.io/strimio-desktop
